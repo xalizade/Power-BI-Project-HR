@@ -33,5 +33,6 @@ This Power BI dashboard provides key insights into employee data, including:
 ### Step 1: Clone the Repository
 Clone this repository to your local machine:
 ```sh
-git clone https://github.com/yourusername/hr-dashboard.git
-cd hr-dashboard
+git clone https://github.com/xalizade/Power-BI-Project-Olympic-Games-Analysis.git
+cd Power-BI-Project-Olympic-Games-Analysis
+
